@@ -39,6 +39,6 @@ Ajoutez une feuille de style au layout pour pouvoir débuter l'intégration css 
 
 * [3] Créer une homepage pour votre blog
 
-Utilisez le DefaultController ajouté lors de la création du MmiBlogBundle depuis l'invite de commande.
+Utilisez le DefaultController ajouté lors de la création du MmiBlogBundle.
 
 Le template de votre homepage doit hériter du layout de votre blog.
